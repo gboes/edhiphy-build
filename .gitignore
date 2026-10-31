@@ -1,0 +1,47 @@
+/.*
+!/.git*
+!/.dockerignore
+
+*.DS_Store
+
+*.sqlite*
+*.db3*
+*.xz
+
+/tmp
+/build
+/htmlcov
+
+# Data: JSTOR full texts and everything derived from them are proprietary
+# and must never be committed. Only small curated inputs (data/manual) and
+# data requests are tracked.
+/data/raw/*
+/data/external/*
+/data/processed/*
+/data/interim/*
+/data/tables/
+/data/releases/
+/data/scraped/
+/data/feedback/
+/data/requests/*.xlsx
+# Backup mirrors of DATA_DIR/curated and DATA_DIR/reference (README, "Data
+# handling"); the pipeline never reads them.
+/data/curated/
+/data/reference/
+
+# Private project documents (grant application, software management plan)
+/documentation/ERC-*.docx
+/documentation/Software_Management_Plan-*.docx
+# draw.io backup and temporary files
+/documentation/.$*
+
+# Exploratory notebooks and their outputs stay local
+.ipynb_checkpoints/
+/*.ipynb
+/match_comparison.xlsx
+
+/*.log
+
+*.py[cod]
+*.egg
+__pycache__

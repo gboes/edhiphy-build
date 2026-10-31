@@ -1,0 +1,52 @@
+# Citation metadata of the public repository (publish/publish.sh fills in
+# the version and date of the published tag).
+cff-version: 1.2.0
+message: >-
+  If you use edhiphy or its data, please cite the paper below.
+title: "edhiphy/build: the build pipeline of the edhiphy database of philosopher mentions"
+type: software
+authors:
+  - family-names: Petrovich
+    given-names: Eugenio
+    orcid: "https://orcid.org/0000-0001-9646-0471"
+  - family-names: Bös
+    given-names: Gregor
+    orcid: "https://orcid.org/0000-0003-4181-162X"
+  - family-names: Dankers
+    given-names: Wessels    
+version: "2.0.0"
+date-released: "2026-10-30"
+license: Apache-2.0
+repository-code: "https://github.com/gboes/edhiphy-build"
+url: "https://edhiphy.org"
+preferred-citation:
+  type: article
+  title: "Bibliometrics beyond citations: introducing mention extraction and analysis"
+  authors:
+    - family-names: Petrovich
+      given-names: Eugenio
+      orcid: "https://orcid.org/0000-0001-9646-0471"
+    - family-names: Verhaegh
+      given-names: Sander
+      orcid: "https://orcid.org/0000-0003-3208-3448"
+    - family-names: Bös
+      given-names: Gregor
+      orcid: "https://orcid.org/0000-0003-4181-162X"
+    - family-names: Cristalli
+      given-names: Claudia
+      orcid: "https://orcid.org/0000-0001-7552-0965"
+    - family-names: Dewulf
+      given-names: Fons
+      orcid: "https://orcid.org/0000-0001-6139-9973"
+    - family-names: van Gemert
+      given-names: Ties
+      orcid: "https://orcid.org/0000-0001-9248-0918"
+    - family-names: IJdens
+      given-names: Nina
+  journal: Scientometrics
+  volume: 129
+  issue: 9
+  start: 5731
+  end: 5768
+  year: 2024
+  doi: "10.1007/s11192-024-05116-x"

@@ -1,0 +1,21 @@
+# Paths (git pathspecs) exported to the public repository by publish.sh.
+# Everything not listed here stays private. Entries that do not exist in
+# the released commit are skipped.
+#
+# Not listed on purpose: data/ (curated lists are published only after a
+# decision per file), documentation/ (contains private and draft
+# material), src/legacy/ and src/handover/ (reference code with personal
+# paths).
+.gitignore
+.dockerignore
+README.md
+LICENSE
+Dockerfile
+Makefile
+run_docker.sh
+pyproject.toml
+uv.lock
+config/
+src/edhiphy/
+tests/
+publish/

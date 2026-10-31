@@ -1,0 +1,21 @@
+edhiphy/build: the build pipeline of the edhiphy database of philosopher mentions
+https://edhiphy.org
+Copyright 2022-2026 Tilburg University
+
+Please cite
+-----------
+If you use edhiphy, its software or its data in your work, please cite:
+
+  Petrovich, E., Verhaegh, S., Bös, G., Cristalli, C., Dewulf, F.,
+  van Gemert, T., & IJdens, N. (2024). Bibliometrics beyond citations:
+  introducing mention extraction and analysis. Scientometrics, 129(9),
+  5731–5768. https://doi.org/10.1007/s11192-024-05116-x
+
+Funding
+-------
+edhiphy is developed in the project "Exiled Empiricists: American
+Philosophy and the Great Intellectual Migration" at Tilburg University,
+which has received funding from the European Research Council (ERC)
+under the European Union's Horizon Europe research and innovation
+programme (grant agreement No 101039904, ERC-2021-STG) and from the
+Dutch Research Council (NWO, grant VI.Vidi.201.115).
